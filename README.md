@@ -1,5 +1,2 @@
 # Welcome
-If the page doesnt work just message me and I'll see about fixing it.
-<iframe src="youtube-nocookie.com/embed/HguKPVgIZL8" onload="this.width=screen.width;this.height=screen.height;"></iframe>
-
-<iframe></iframe>
+This repo is for my own - and other people I know - 's personal use. This probably is not relevant to you as the usecase is very specific and only affects a infinitesmal portion of people. (>20000)
