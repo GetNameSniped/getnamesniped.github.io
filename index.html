@@ -11,7 +11,7 @@
   <iframe src="https://www.youtube-nocookie.com/embed/HguKPVgIZL8" onload="this.width=screen.width;this.height=screen.height;"></iframe>
   <script>
   let params = new URLSearchParams(window.location.search)
-  let videocode = params.vid
+  let videocode = params.get(vid)
   var iframe = document.createElement('iframe');
   iframe.src = `https://www.youtube-nocookie.com/embed/${videocode}`;
   iframe.width = '560';
